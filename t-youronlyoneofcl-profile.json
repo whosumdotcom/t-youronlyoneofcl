@@ -1,0 +1,38 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-10T08:43:36Z",
+  "IdClaims": [
+    {
+      "Claim": "t:youronlyoneofcl"
+    },
+    {
+      "Claim": "gh:techmagus"
+    },
+    {
+      "Claim": "yt:@youronlyoneofcl"
+    },
+    {
+      "Claim": "spout:youronlyone"
+    },
+    {
+      "Claim": "mdon:@youronlyone@c.im"
+    },
+    {
+      "Claim": "med:youronlyone"
+    },
+    {
+      "Claim": "pat:youronlyone"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "98be26624031c9bea9a4a9ae",
+    "Timestamp": "2023-04-10T08:59:35Z",
+    "Signature": "2e10881a49c87abb20dff41c24a4410a51ba8cf7b060e02712311b290bd636cf06ba4b30fc903dabe720f7ac6e3efb512f9e716f4ffb7f9c8b801f0e2b5f4b200fd6411144c6eeb5d9a032cd84d10f36902a5bcd42d2a9830ee0ee53647f4c63e6de94cbd1f87a71521a15402df81657a96129c81c3f00b614cf49f17bdcf03769d4bed289738430ced3cf81084317bb5953e81bdfd52cc12c2a6778f0a6746a8e212c828856acb2fa3d6a5926153679ce4fb19d561b9d5b327468a799f0986e3e015fbb8cefd525cd80c10f91e7bae9d133f4af89b38d0769a13ffb61dcf6e4f9b91a77e05f032402f77162385ef2171e8e3ca61ad2fdcc5118ec1b1ac890ab"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "a44a24c0eafc742882bb2bd2259a9666480d363086603be3e36089e4f3f596cf",
+  "ContentToHash": "v1|gh:techmagus,mdon:@youronlyone@c.im,med:youronlyone,pat:youronlyone,spout:youronlyone,t:youronlyoneofcl,yt:@youronlyoneofcl|2023-04-10T08:43:36Z"
+}
